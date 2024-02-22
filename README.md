@@ -4,7 +4,7 @@ I have a degree in system development analysis. My skills are web and mobile dev
 
 Some tools
 
-
+<img src="https://pt.wikipedia.org/wiki/Go_%28linguagem_de_programa%C3%A7%C3%A3o%29#/media/Ficheiro:Go_Logo_Blue.svg" loading="lazy" />
 <!--
 **rafaelsouzaribeiro/rafaelsouzaribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
