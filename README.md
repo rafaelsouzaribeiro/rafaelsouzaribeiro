@@ -2,11 +2,13 @@
 
 I have a degree in system development analysis. My skills are web and mobile development.
 
-Some tools
-<img src="https://github.com/tomchen/stack-icons/raw/master/logos/go.svg" alt="Go" width="21px" height="21px" style="max-width: 100%;"></a><br />
+Some tools<br />
 
 
-<a href="[[https://nodejs.org/](https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTu1RgbGyQevckp9BttwX1NrtlphlXRqngQSjlIOE_lKcdCVCrDoFVxoCjYEQAvD_BwE&gclsrc=aw.ds)](https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTu1RgbGyQevckp9BttwX1NrtlphlXRqngQSjlIOE_lKcdCVCrDoFVxoCjYEQAvD_BwE&gclsrc=aw.ds)" title="Jetpack compose" rel="nofollow"><img src="https://developer.android.com/images/jetpack/compose/landing-preview-animation.gif" alt="Jetpack Compose" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://go.dev/" title="Go" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/go.svg" alt="Go" width="21px" height="21px" style="max-width: 100%;"></a>
+
+
+<a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTu1RgbGyQevckp9BttwX1NrtlphlXRqngQSjlIOE_lKcdCVCrDoFVxoCjYEQAvD_BwE&gclsrc=aw.ds" title="Jetpack compose" rel="nofollow"><img src="https://developer.android.com/images/jetpack/compose/landing-preview-animation.gif" alt="Jetpack Compose" width="21px" height="21px" style="max-width: 100%;"></a>
 
 <a href="https://nodejs.org/" title="Node.js" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://nestjs.com/" title="Nestjs" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/nestjs.svg" alt="Nestjs" width="21px" height="21px" style="max-width: 100%;"></a>
