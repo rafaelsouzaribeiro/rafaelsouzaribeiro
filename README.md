@@ -3,8 +3,14 @@
 I have a degree in system development analysis. My skills are web and mobile development.
 
 Some tools
-
-<img src="https://pt.wikipedia.org/wiki/Go_%28linguagem_de_programa%C3%A7%C3%A3o%29#/media/Ficheiro:Go_Logo_Blue.svg" loading="lazy" />
+<img src="https://github.com/tomchen/stack-icons/raw/master/logos/go.svg" alt="Go" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://aws.amazon.com/pt/" title="AWS" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/aws.svg" alt="AWS" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://nodejs.org/" title="Node.js" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://nestjs.com/" title="Nestjs" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/nestjs.svg" alt="Nestjs" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://dev.mysql.com/" title="MySQL" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://www.postgresql.org/" title="Postgres" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/postgresql.svg" alt="Postgres" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://www.mongodb.org/" title="MongoDB" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://grpc.io/" title="gRPC" rel="nofollow"><img src="https://camo.githubusercontent.com/42ecdee9b7b6cccd9c0d81edad2df2708d90bbc9cd496f63eadb28cd8febf3c8/68747470733a2f2f677270632e696f2f696d672f6c6f676f732f677270632d69636f6e2d636f6c6f722e706e67" alt="gRPC" width="21px" height="21px" data-canonical-src="https://grpc.io/img/logos/grpc-icon-color.png" style="max-width: 100%;">
 <!--
 **rafaelsouzaribeiro/rafaelsouzaribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
