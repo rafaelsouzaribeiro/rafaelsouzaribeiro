@@ -4,7 +4,7 @@ I have a degree in system development analysis. My skills are web and mobile dev
 
 Some tools<br />
 
-<a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTu1RgbGyQevckp9BttwX1NrtlphlXRqngQSjlIOE_lKcdCVCrDoFVxoCjYEQAvD_BwE&gclsrc=aw.ds" title="Jetpack compose" rel="nofollow"><img src="https://developer.android.com/images/jetpack/compose/landing-preview-animation.gif" alt="Jetpack Compose" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://kotlinlang.org/" title="Kotlin" rel="nofollow"><img src="https://cafeinacodificada.com.br/wp-content/uploads/2019/02/kotlin.jpg" alt="Kotlin" width="21px" height="21px" style="max-width: 100%;"></a>
 
 <a href="https://go.dev/" title="Go" rel="nofollow"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/go.svg" alt="Go" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTu1RgbGyQevckp9BttwX1NrtlphlXRqngQSjlIOE_lKcdCVCrDoFVxoCjYEQAvD_BwE&gclsrc=aw.ds" title="Jetpack compose" rel="nofollow"><img src="https://developer.android.com/images/jetpack/compose/landing-preview-animation.gif" alt="Jetpack Compose" width="21px" height="21px" style="max-width: 100%;"></a>
