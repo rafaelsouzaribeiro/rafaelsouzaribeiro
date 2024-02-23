@@ -5,7 +5,7 @@ I have a degree in system development analysis. My skills are web and mobile dev
 Some tools<br />
 
 <a href="https://kotlinlang.org/" title="Kotlin" rel="nofollow" target="_blank"><img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="Kotlin" width="50px" height="15px" style="max-width: 100%;"></a>
-<a href="https://go.dev/" title="Go" rel="nofollow" target="_blank"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/go.svg" alt="Go" width="21px" height="21px" style="max-width: 100%;"></a>
+<a href="https://go.dev/" title="Go" rel="nofollow" target="_blank"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/go.svg" alt="Go" width="21px" height="18px" style="max-width: 100%;"></a>
 <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTu1RgbGyQevckp9BttwX1NrtlphlXRqngQSjlIOE_lKcdCVCrDoFVxoCjYEQAvD_BwE&gclsrc=aw.ds" title="Jetpack compose" rel="nofollow" target="_blank"><img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://nodejs.org/" title="Node.js" rel="nofollow" target="_blank"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://nestjs.com/" title="Nestjs" rel="nofollow" target="_blank"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/nestjs.svg" alt="Nestjs" width="21px" height="21px" style="max-width: 100%;"></a>
