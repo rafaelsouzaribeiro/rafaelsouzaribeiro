@@ -1,7 +1,7 @@
 ### Hi, I'm Rafael Fernando 👋
 
-I have a degree in system development analysis. My skills are web and mobile development.
-Lately I've been developing a Go application to improve my knowledge
+I have a degree in system development analysis. My skills are web and mobile development.<br />
+Lately I've been developing a Go application to improve my knowledge<br /><br />
 Some tools<br />
 
 <a href="https://kotlinlang.org/" title="Kotlin" rel="nofollow" target="_blank"><img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="Kotlin" width="50px" height="15px" style="max-width: 100%;"></a>
