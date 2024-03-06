@@ -3,6 +3,13 @@
 I have a degree in system development analysis. My skills are web and mobile development.<br />
 Lately I've been developing a Go application to improve my knowledge<br /><br />
 
+<a href="https://github-readme-stats.vercel.app/api?username=rafaelsouzaribeiro&count_private=true&show_icons=true&hide_border=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelsouzaribeiro&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzaribeiro&hide=javascript,html">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzaribeiro&hide=javascript,html" />
+</a>
+
 Some tools<br />
 
 <a href="https://kotlinlang.org/" title="Kotlin" rel="nofollow" target="_blank"><img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="Kotlin" width="50px" height="15px" style="max-width: 100%;"></a>
