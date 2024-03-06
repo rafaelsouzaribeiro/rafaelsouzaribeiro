@@ -1,11 +1,11 @@
 ### Hi, I'm Rafael Fernando 👋
 
 I have a degree in system development analysis. My skills are web and mobile development.<br />
-Lately I've been developing a Go application to improve my knowledge<br /><br />
+Lately I've been developing a Go application to improve my knowledge<br />
 
 <a href="https://github-readme-stats.vercel.app/api?username=rafaelsouzaribeiro&count_private=true&show_icons=true&hide_border=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelsouzaribeiro&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-</a>
+</a><br />
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzaribeiro&hide=javascript,html">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzaribeiro&hide=javascript,html" />
 </a>
