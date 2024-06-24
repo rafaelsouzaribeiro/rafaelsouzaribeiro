@@ -23,9 +23,12 @@ Some tools<br />
 <a href="https://grpc.io/" title="gRPC" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/42ecdee9b7b6cccd9c0d81edad2df2708d90bbc9cd496f63eadb28cd8febf3c8/68747470733a2f2f677270632e696f2f696d672f6c6f676f732f677270632d69636f6e2d636f6c6f722e706e67" alt="gRPC" width="21px" height="21px" data-canonical-src="https://grpc.io/img/logos/grpc-icon-color.png" style="max-width: 100%;"></a>
 <a href="https://spring.io/projects/spring-boot" title="Spring boot" rel="nofollow" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="spring boot" width="21px" height="21px" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" style="max-width: 100%;"></a>
 
-
-
+<p align="center" dir="auto">
+  Visitor count<br>
 ![Visitor Count](https://profile-counter.glitch.me/rafaelsouzaribeiro/count.svg)
+</p>
+
+
 
 <!--
 **rafaelsouzaribeiro/rafaelsouzaribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
