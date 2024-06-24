@@ -26,6 +26,8 @@ Some tools<br />
   Visitor count<br>
   ![Visitor Count](https://profile-counter.glitch.me/rafaelsouzaribeiro/count.svg)
 
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rafaelsouzaribeiro&label=Profile%20views&color=ce9927&style=flat" alt="rafaelsouzaribeiro" /> </p>
+
 
 
 
