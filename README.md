@@ -24,7 +24,7 @@ Some tools<br />
 <a href="https://spring.io/projects/spring-boot" title="Spring boot" rel="nofollow" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="spring boot" width="21px" height="21px" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" style="max-width: 100%;"></a>
 
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9902676de9545c0064fb173968752e3185de7d06825031e64e9419fc20e9f7bf/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f5f626c6f636167652f636f756e742e737667"><img src="https://camo.githubusercontent.com/9902676de9545c0064fb173968752e3185de7d06825031e64e9419fc20e9f7bf/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f5f626c6f636167652f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/_blocage/count.svg" style="max-width: 100%;"></a>
+
 <!--
 **rafaelsouzaribeiro/rafaelsouzaribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
