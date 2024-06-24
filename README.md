@@ -5,8 +5,8 @@ Lately I've been developing a Go application to improve my knowledge<br />
 
 <a style="float:left" href="https://github-readme-stats.vercel.app/api?username=rafaelsouzaribeiro&count_private=true&show_icons=true&hide_border=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelsouzaribeiro&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-</a><br />
-<a style="float:left" href="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzaribeiro&hide=javascript,html">
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzaribeiro&hide=javascript,html">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzaribeiro&hide=javascript,html" />
 </a>
 <br />
