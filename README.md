@@ -9,7 +9,9 @@ Lately I've been developing a Go application to improve my knowledge<br />
 <a style="float:left" href="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzaribeiro&hide=javascript,html">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzaribeiro&hide=javascript,html" />
 </a>
-<p style="clear:both" align="center">
+<p style="clear:both;text-align:center" align="center">
+  <br />
+  <br />
   Some tools<br />
 
 
