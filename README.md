@@ -24,8 +24,10 @@ Some tools<br />
 <a href="https://spring.io/projects/spring-boot" title="Spring boot" rel="nofollow" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="spring boot" width="21px" height="21px" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" style="max-width: 100%;"></a>
 
 
-
+<div style="text-align:center">
+  <div>Visitor Count</div><br />
 ![Visitor Count](https://profile-counter.glitch.me/rafaelsouzaribeiro/count.svg)
+</div>
 <!--
 **rafaelsouzaribeiro/rafaelsouzaribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
