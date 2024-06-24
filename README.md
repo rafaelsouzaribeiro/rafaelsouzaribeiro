@@ -14,9 +14,9 @@ Lately I've been developing a Go application to improve my knowledge<br />
   <br />
   <br />
   Some tools<br />
+  </p>
 
-
-
+ <p align="center" dir="auto">
 <a href="https://kotlinlang.org/" title="Kotlin" rel="nofollow" target="_blank"><img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="Kotlin" width="50px" height="15px" style="max-width: 100%;"></a>
 <a href="https://go.dev/" title="Go" rel="nofollow" target="_blank"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/go.svg" alt="Go" width="21px" height="18px" style="max-width: 100%;"></a>
 <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTu1RgbGyQevckp9BttwX1NrtlphlXRqngQSjlIOE_lKcdCVCrDoFVxoCjYEQAvD_BwE&gclsrc=aw.ds" title="Jetpack compose" rel="nofollow" target="_blank"><img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" width="21px" height="21px" style="max-width: 100%;"></a>
@@ -27,7 +27,7 @@ Lately I've been developing a Go application to improve my knowledge<br />
 <a href="https://www.mongodb.org/" title="MongoDB" rel="nofollow" target="_blank"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://grpc.io/" title="gRPC" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/42ecdee9b7b6cccd9c0d81edad2df2708d90bbc9cd496f63eadb28cd8febf3c8/68747470733a2f2f677270632e696f2f696d672f6c6f676f732f677270632d69636f6e2d636f6c6f722e706e67" alt="gRPC" width="21px" height="21px" data-canonical-src="https://grpc.io/img/logos/grpc-icon-color.png" style="max-width: 100%;"></a>
 <a href="https://spring.io/projects/spring-boot" title="Spring boot" rel="nofollow" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="spring boot" width="21px" height="21px" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" style="max-width: 100%;"></a>
-</p>
+ </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rafaelsouzaribeiro&label=Profile%20views&color=ce9927&style=flat" alt="rafaelsouzaribeiro" /> </p>
 
 
