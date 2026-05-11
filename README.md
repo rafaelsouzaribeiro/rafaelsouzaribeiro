@@ -1,7 +1,18 @@
 ### Hi, I'm Rafael Fernando 👋
 
-I have a degree in system development analysis. My skills are web and mobile development.<br />
-Lately I've been developing a Go application to improve my knowledge<br />
+I am a Systems Analyst and Backend Developer with extensive experience in web development, microservices, and high-performance APIs.<br/>
+
+I primarily work with Golang, Java, Kotlin, Spring Boot, and modern architectures focused on scalability and performance.<br/>
+
+I have experience developing robust solutions for web systems, mobile devices, and enterprise platforms.<br/>
+
+Throughout my career, I have worked with modern technologies and best development practices such as:<br/><br/>
+
+Clean Architecture<br/>
+SOLID principles<br/>
+Design Patterns<br/>
+Microservices<br/>
+Scalable APIs<br/><br/>
 
 
   <p align="center" dir="auto">
@@ -11,7 +22,7 @@ Lately I've been developing a Go application to improve my knowledge<br />
   </p>
 
  <p align="center" dir="auto">
-<a href="https://kotlinlang.org/" title="Kotlin" rel="nofollow" target="_blank"><img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="Kotlin" width="50px" height="15px" style="max-width: 100%;"></a>
+<a href="https://kotlinlang.org/" title="Kotlin" rel="nofollow" target="_blank"><img src="[https://kotlinlang.org/docs/images/kotlin-logo.png](https://upload.wikimedia.org/wikipedia/commons/7/76/Kotlin_logo_%282021-present%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)" alt="Kotlin" width="50px" height="15px" style="max-width: 100%;"></a>
 <a href="https://go.dev/" title="Go" rel="nofollow" target="_blank"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/go.svg" alt="Go" width="21px" height="18px" style="max-width: 100%;"></a>
 <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTu1RgbGyQevckp9BttwX1NrtlphlXRqngQSjlIOE_lKcdCVCrDoFVxoCjYEQAvD_BwE&gclsrc=aw.ds" title="Jetpack compose" rel="nofollow" target="_blank"><img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://nodejs.org/" title="Node.js" rel="nofollow" target="_blank"><img src="https://github.com/tomchen/stack-icons/raw/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px" style="max-width: 100%;"></a>
