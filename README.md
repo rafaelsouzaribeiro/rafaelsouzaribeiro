@@ -1,11 +1,8 @@
 ### Hi, I'm Rafael Fernando 👋
 
 I am a Systems Analyst and Backend Developer with extensive experience in web development, microservices, and high-performance APIs.<br/>
-
 I primarily work with Golang, Java, Kotlin, Spring Boot, and modern architectures focused on scalability and performance.<br/>
-
 I have experience developing robust solutions for web systems, mobile devices, and enterprise platforms.<br/>
-
 Throughout my career, I have worked with modern technologies and best development practices such as:<br/><br/>
 
 Clean Architecture<br/>
